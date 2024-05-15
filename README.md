@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ahmet Hakan Yildirim</h1>
-<h3 align="center">Hevesli bir Mühendislik öğrencisi</h3>
+<h1 align="center">Merhaba👋, Ben Ahmet Hakan Yildirim</h1>
+<h3 align="center">Geleceğin Mühendisi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahyildirim&label=Profile%20views&color=0e75b6&style=flat" alt="ahyildirim" /> </p>
 
